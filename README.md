@@ -96,6 +96,8 @@ Example command to run training:
 ```bash
 python train.py --data_path data/train.csv --epochs 3
 ```
+## Results:
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/4197dd56-26ff-4d26-ad26-f950aad23ff7">
 
 ## Future Improvements
 
